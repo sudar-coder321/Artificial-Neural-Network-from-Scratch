@@ -4,4 +4,4 @@ A naive python code for implementing ANN (Aritificial Neural Networks from scrat
 
 ## Fun Fact:- 
 
-- was interested in the mathematical logic behind the working of the algorithm so did it! :relaxed:
+- was interested in the mathematical logic behind the working of the algorithm so tried my hand at it! :relaxed:
