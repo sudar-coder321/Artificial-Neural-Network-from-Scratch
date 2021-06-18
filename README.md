@@ -1,4 +1,4 @@
-# Artificial-Neural-Network-from-Scratch
+# ANN_from_Scratch
 
 A naive python code for implementing ANN (Aritificial Neural Networks from scratch without using high level APIs) 
 
